@@ -1,0 +1,21 @@
+{
+  "images" : [
+    {
+      "filename" : "transparent-maps-and-location-icon-earth-icon-navigation-and-m-5e618e7472e452.5130646515834517644706.png",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
